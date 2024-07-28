@@ -1,11 +1,11 @@
 {
     "installed": {
-        "client_id": "34382579821-2i2rq79kl8uthrf3jq6uef6qvehmdj8s.apps.googleusercontent.com",
+        "client_id": "",
         "project_id": "personal-workflows-376601",
         "auth_uri": "https://accounts.google.com/o/oauth2/auth",
         "token_uri": "https://oauth2.googleapis.com/token",
         "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-        "client_secret": "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",
+        "client_secret": "",
         "redirect_uris": [
             "http://localhost"
         ]

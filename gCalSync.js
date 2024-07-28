@@ -48,7 +48,7 @@ function copyToTana(e) {
     // Make a POST request with a JSON payload.
   var options = {
     'headers': {
-      'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaWxlSWQiOiJqQmxJNlVwN1FWIiwiY3JlYXRlZCI6MTY4NzgxNDY0MzgwNSwidG9rZW5JZCI6Ii1RdEdtbkJraEkifQ.VziLefXjgNarwN08Ms-ixh8mgeKSO52ZQN1EQpzm57w',
+      'Authorization': 'Bearer ',
     },
     'method': 'post',
     'contentType': 'application/json',

@@ -3,7 +3,7 @@ function copyToTana(e) {
   let today = new Date();
   let filteredCalendars = [];
   let eventsList = []
-  let exclusionList = ["landanq@gmail.com", "Todoist", "Focus Accelerator"];
+  let exclusionList = ["Todoist", "Focus Accelerator"];
   let calendars = CalendarApp.getAllCalendars();
   
   let payload = {
